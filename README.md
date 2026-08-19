@@ -1,8 +1,8 @@
 # Nekunae
-Hi, im Jane Ashley, a passionate of the computers, Technic student and 
+Hi, im Jane Ashley, a passionate of the computers, Technic student and open source lover
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=8A2BE2&center=true&vCenter=true&width=500&lines=i+love+yuri;Trans+rights+are+human+rights+🏳️‍⚧️%F0%9F%92%BB;I+love+yuri" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=8A2BE2&center=true&vCenter=true&width=500&lines=i+love+yuri;Trans+rights+are+human+rights;I+love+yuri" alt="Typing SVG" />
 </p>
 
 ### Languages im learning
@@ -20,6 +20,7 @@ Hi, im Jane Ashley, a passionate of the computers, Technic student and
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tu_usuario&theme=radical&hide_border=true" />
 </p>
+
 ### Links
 
 <p align="left">
@@ -39,4 +40,4 @@ Hi, im Jane Ashley, a passionate of the computers, Technic student and
 
 ---
 
-<p align="center"><i>✨ Gracias por pasarte por aquí ✨</i></p>
+<p align="center"><i> Wikipedia lover/Opensource and FOSS leads the world </i></p>
