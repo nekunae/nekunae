@@ -35,6 +35,10 @@ Hi, im Jane Ashley, a passionate of the computers, Technic student and open sour
   </a>
 </p>
 
+<img alt="68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f772d6a50326857384f4e6b4638773d3d2d3336373934393238332e313663666537383163643634366163663931363336383639383437352e676966" src="https://github.com/user-attachments/assets/9d257f74-8705-4962-bec3-81e4d2b1c79e" />
+
+
 ---
+
 
 <p align="center"><i> Wikipedia lover/Opensource and FOSS leads the world </i></p>
