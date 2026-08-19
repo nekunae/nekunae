@@ -18,7 +18,7 @@ Hi, im Jane Ashley, a passionate of the computers, Technic student and open sour
 
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tu_usuario&theme=radical&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nekunae&theme=radical&hide_border=true" />
 </p>
 
 ### Links
