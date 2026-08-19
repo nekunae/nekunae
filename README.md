@@ -5,7 +5,7 @@ Hi, im Jane Ashley, a passionate of the computers, Technic student and
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=8A2BE2&center=true&vCenter=true&width=500&lines=i+love+yuri;Un+poco+dev+%F0%9F%92%BB;I+love+yuri" alt="Typing SVG" />
 </p>
 
-### 🛠️ Tecnologías
+### Languages im learning
 
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
