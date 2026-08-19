@@ -16,10 +16,7 @@ Hi, im Jane Ashley, a passionate of the computers, Technic student and open sour
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nekunae&theme=radical&hide_border=true" />
-</p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nekunae&theme=radical&hide_border=true" />
 
 ### Links
 
